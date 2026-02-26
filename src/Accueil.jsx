@@ -1,4 +1,4 @@
-// Mahad Mouhoumed - 2708767
+// Mahad M - 2708767
 // page accueil
 // TODO: ajouter plus de contenu
 
