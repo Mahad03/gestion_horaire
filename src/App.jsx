@@ -1,7 +1,5 @@
 // Mahad M - 2708767
 // app principal
-// TODO: ajouter navigation
-
 import React from 'react'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import Accueil from './Accueil'

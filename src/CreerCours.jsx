@@ -1,6 +1,6 @@
 // Mahad M - 2708767
 // page creer cours
-// copier de stackoverflow
+
 
 import React from 'react'
 

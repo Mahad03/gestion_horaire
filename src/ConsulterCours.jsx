@@ -1,6 +1,5 @@
 // Mahad M - 2708767
 // page consulter cours
-// v2 avec filtres
 
 import React from 'react'
 
